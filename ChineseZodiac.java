@@ -4,7 +4,7 @@ import java.util.*;
  * The ChineseZodiac program tells you the Zodiac Sign corresponding to your birthdate. Includes information about
  * the sign.
  *
- * @author Kenny Nguyen, Michael Deely
+ * @author Kenny Nguyen
  * @version 1.0
  * @since 2019-08-01
  */
